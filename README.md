@@ -28,13 +28,13 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/SplitBuddy.git
+git clone https://github.com/yourusername/SplitSmart.git
 ```
 
 2. **Navigate into the project directory:**
 
 ```bash
-cd SplitBuddy
+cd SplitSmart
 ```
 
 3. **Compile the project:**
