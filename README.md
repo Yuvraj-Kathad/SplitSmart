@@ -56,7 +56,7 @@ java Main
 When you run the app, you'll see:
 
 ```
-=== SplitBuddy ===
+=== SplitSmart ===
 1. Add expense
 2. Show my balance
 3. Settle expense with person
@@ -80,7 +80,7 @@ Choose option:
 ## 📌 Example
 
 ```
-=== SplitBuddy ===
+=== SplitSmart ===
 Choose option: 1
 Enter payer userId: Alice
 Enter total amount: 300
@@ -108,6 +108,6 @@ You are all settled with Alice.
 
 ## ✏️ Author
 
-Created by **\[Bhavya Boda]** – Happy splitting with SplitBuddy! 💰
+Created by **\[Yuvraj Kathad]** – Happy splitting with SplitSmart! 💰
 
 > ⭐ Don't forget to star the repository if you like it!
